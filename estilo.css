@@ -1,0 +1,112 @@
+/*
+html{
+    cursor: url(imagens/mata_mosca.png)30 30, auto;
+}
+
+body{
+    background: url(/App2/imagens/bg.jpg) no-repeat;
+    background-size:100% ;
+}
+
+.mosquito1{
+    width: 50px;
+    height: 50px;
+}
+
+.mosquito2{
+    width: 70px;
+    height: 70px;
+}
+
+.mosquito3{
+    width: 90px;
+    height: 90px;
+}
+
+.ladoA{
+    transform: scalex(1);
+}
+
+.ladoB{
+    transform: scalex(-1);
+}
+
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    left: 0px;
+    bottom: 0px;
+    border-top:solid 1px #ffff ;
+    background-color: #ffff;
+    opacity: 0.7;
+}
+
+.vidas {
+    float: left;
+}
+
+.cronometro {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+*/
+
+html{
+    cursor: url(imagens/mata_mosca.png)30 30, auto;
+}
+
+body{
+    background: url(/App2/imagens/bg.jpg) no-repeat;
+    background-size:110% ;
+}
+
+.mosquito1{
+    width: 50px;
+    height: 50px;
+   
+}
+
+.mosquito2{
+    width: 70px;
+    height: 70px;
+}
+
+.mosquito3{
+    width: 90px;
+    height: 90px;
+}
+
+.mosquito4{
+    width: 120px;
+    height: 120px;
+}
+
+.ladoA{
+    transform: scalex(1);
+}
+
+.ladoB{
+    transform: scalex(-1);
+}
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    left: 0px;
+    bottom: 0px;
+    background-color: #393a146b; 
+}
+
+.vidas {
+    float: left;
+}
+
+.cronometro {
+    color: #ffff;
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+}
